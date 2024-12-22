@@ -68,7 +68,7 @@ I dati sono stati simulati o ottenuti da fonti pubbliche per rappresentare uno s
 
 Le principali metriche utilizzate nella dashboard includono:
 
-- **Gross Profit %**: Calcolato come `(Gross Profit / Total Revenue) * 100`.
+- **Gross Profit %**: Calcolato come `(Gross Profit / Total Revenue) * 100`. (DIVIDE(SUM('Dataser'[ Gross Profit ]),SUM('Dataser'[Monthly Rev]),0))
 - **Average Monthly Revenue**: Media delle entrate mensili per località.
 - **Average Monthly Transactions**: Media delle transazioni finanziarie e non finanziarie mensili.
 - **Short Mounth**: Mese in lettere ed abbreviato con prima lettera M ( UPPER(LEFT(FORMAT(DATE(2024, 'Dataser'[Month], 1), "MMM"), 1)) & LOWER(MID(FORMAT(DATE(2024, 'Dataser'[Month], 1), "MMM"), 2, 2))
