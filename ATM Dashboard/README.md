@@ -10,7 +10,7 @@ La dashboard si articola in tre sezioni principali:
 
 ## Struttura della Dashboard
 - **Home View**: 
-ATM Dashboard/images/Immagine 2024-12-22 233233.png
+    ATM Dashboard/images/Immagine 2024-12-22 233233.png
 
 - **Overview View**: 
   ![Overview View](./images/overview_view.png)
