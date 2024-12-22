@@ -9,7 +9,8 @@ La dashboard si articola in tre sezioni principali:
 3. **Detail**: Analisi dettagliata delle fasce di margine e delle prestazioni degli ATM per località.
 
 ## Struttura della Dashboard
-- **Home View**:     Portfolio-powerbi/ATM Dashboard/images/Immagine 2024-12-22 233233.png
+- **Home View**  
+![Home View](./images/home_view.png)
 
 
 - **Overview View**: 
