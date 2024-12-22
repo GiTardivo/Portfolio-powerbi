@@ -34,11 +34,20 @@ La dashboard si articola in tre sezioni principali:
 ### Home View
 ![Home View](./images/home_view.png)
 
+![Immagine 2024-12-22 234823](https://github.com/user-attachments/assets/31240647-234a-42f5-9a50-9d07aa7bd60c)
+
+
 ### Overview View
 ![Overview View](./images/overview_view.png)
 
+![Immagine 2024-12-22 233233](https://github.com/user-attachments/assets/c7432d79-f115-4363-a99b-1cf331121ad0)
+
+
 ### Detail View
 ![Detail View](./images/detail_view.png)
+
+![Immagine 2024-12-22 233313](https://github.com/user-attachments/assets/2c664c32-7ebe-4e4d-9014-89a9a29f154e)
+
 
 ---
 
