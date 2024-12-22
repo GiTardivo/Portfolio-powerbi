@@ -27,7 +27,7 @@ Una dashboard interattiva progettata per analizzare le transazioni e le prestazi
 - Dataset in formato CSV/Excel  
 
 📂 **Link al Progetto**  
-[ATM Transactions Analysis Dashboard]([https://github.com/GiTardivo/atm-transactions-dashboard)](https://github.com/GiTardivo/Portfolio-powerbi/tree/main/ATM%20Dashboard)
+[ATM Transactions Analysis Dashboard](https://github.com/GiTardivo/Portfolio-powerbi/tree/main/ATM%20Dashboard
 
 🌟 **Punti di Forza**  
 Questo progetto evidenzia la capacità di gestire grandi volumi di dati, calcolare metriche personalizzate, e creare visualizzazioni intuitive per migliorare l’efficienza operativa e la redditività.
