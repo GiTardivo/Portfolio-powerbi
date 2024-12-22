@@ -5,8 +5,7 @@ Benvenuto nel mio portfolio! Qui troverai una selezione delle dashboard che ho c
 ## Progetti in Evidenza
 
 📂 Link al Progetto
-
--Titanic Data Analysis Project Dashboard (https://github.com/GiTardivo/titanic-data-analysis.git)
+Titanic Data Analysis Project Dashboard (https://github.com/GiTardivo/titanic-data-analysis.git)
 
 📊 **Descrizione**  
 Questo progetto ha l'obiettivo di analizzare il famoso dataset del Titanic, utilizzando diverse tecniche di pulizia, trasformazione, e visualizzazione dei dati. Abbiamo esplorato le caratteristiche principali dei passeggeri, identificando i fattori che influenzano la probabilità di sopravvivenza.
