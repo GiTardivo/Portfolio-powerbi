@@ -4,7 +4,7 @@ Benvenuto nel mio portfolio! Qui troverai una selezione delle dashboard che ho c
 
 ## Progetti in Evidenza
 
-Titanic Data Analysis Project Dashboard
+TITANIC DATA ANALYSIS PROJECT DASHBOARD
 
 📂 Link al Progetto
 
