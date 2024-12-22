@@ -33,6 +33,6 @@ Alcune delle metriche utilizzate nella dashboard includono:
 
 ## Contatti
 Per ulteriori informazioni o domande:
-- **LinkedIn**: [Giuseppe Tardivo]([https://linkedin.com/in/giuseppetardivo)](https://www.linkedin.com/in/giuseppe-tardivo-8710b3298/)
+- **LinkedIn**: [Giuseppe Tardivo]([https://linkedin.com/in/giuseppetardivo)]
 - **GitHub**: [GiTardivo](https://github.com/GiTardivo)
 
