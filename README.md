@@ -5,6 +5,7 @@ Benvenuto nel mio portfolio! Qui troverai una selezione delle dashboard che ho c
 ## Progetti in Evidenza
 
 📂 Link al Progetto
+
 Titanic Data Analysis Project Dashboard (https://github.com/GiTardivo/titanic-data-analysis.git)
 
 📊 **Descrizione**  
