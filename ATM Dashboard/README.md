@@ -9,8 +9,8 @@ La dashboard si articola in tre sezioni principali:
 3. **Detail**: Analisi dettagliata delle fasce di margine e delle prestazioni degli ATM per località.
 
 ## Struttura della Dashboard
-- **Home View**: 
-    ATM Dashboard/images/Immagine 2024-12-22 233233.png
+- **Home View**: ![immagine](https://github.com/user-attachments/assets/64cf3d2f-6a33-40c6-b92f-1eb1eb1220e5)
+
 
 - **Overview View**: 
   ![Overview View](./images/overview_view.png)
