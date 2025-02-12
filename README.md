@@ -21,7 +21,8 @@ Titanic Data Analysis Project Dashboard (https://github.com/GiTardivo/titanic-da
 📊 **Descrizione**  
 Questo progetto ha l'obiettivo di analizzare il famoso dataset del Titanic, utilizzando diverse tecniche di pulizia, trasformazione, e visualizzazione dei dati. Abbiamo esplorato le caratteristiche principali dei passeggeri, identificando i fattori che influenzano la probabilità di sopravvivenza.
 Le analisi sono state condotte attraverso Python, SQL e Power BI, creando un flusso di lavoro completo: dalla preparazione dei dati, all’analisi esplorativa, fino alla creazione di dashboard interattive
------------------------------------------------------------------
+
+------------------------------------------------------
 
 ### ATM Transactions Analysis Dashboard 
 
