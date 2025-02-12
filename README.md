@@ -1,6 +1,6 @@
 # Portfolio-powerbi
 
-Benvenuto nel mio portfolio! Qui troverai una selezione delle dashboard che ho creato
+Benvenuto nel mio portfolio! Qui troverai una selezione delle dashboard che ho creato con Power Bi
 
 ## Progetti in Evidenza
 
