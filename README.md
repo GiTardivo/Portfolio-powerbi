@@ -8,9 +8,9 @@ TITANIC DATA ANALYSIS PROJECT DASHBOARD
 
 🛠️ Tecnologie Utilizzate
 
-    Microsoft Power BI
-    DAX (Data Analysis Expressions)
-    Dataset in formato CSV/Excel
+  - Microsoft Power BI
+  - DAX (Data Analysis Expressions)
+  - Dataset in formato CSV/Excel
   - Python
   - Sql
 
