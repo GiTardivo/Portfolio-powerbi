@@ -6,6 +6,14 @@ Benvenuto nel mio portfolio! Qui troverai una selezione delle dashboard che ho c
 
 TITANIC DATA ANALYSIS PROJECT DASHBOARD
 
+🛠️ Tecnologie Utilizzate
+
+    Microsoft Power BI
+    DAX (Data Analysis Expressions)
+    Dataset in formato CSV/Excel
+  - Python
+  - Sql
+
 📂 Link al Progetto
 
 Titanic Data Analysis Project Dashboard (https://github.com/GiTardivo/titanic-data-analysis.git)
