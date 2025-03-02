@@ -20,24 +20,28 @@ Il report è composto da diverse pagine interattive:
 - Prezzo unitario
 - Sconto applicato
 - Grafico a colonne per l'andamento delle vendite mensili
+- Logo dell'azienda come reset dei filtri
 
 ### 2️⃣ **Unità Vendute per Città**
 📌 Mostra l'analisi delle vendite per ogni città in cui TechMarket opera:
 - Mappa interattiva con grandezza delle bolle proporzionale alle unità vendute
 - Istogramma per confronto rapido tra città
 - Indicatori con **media unità vendute** e **media sconto**
+- Logo dell'azienda come reset dei filtri
 
 ### 3️⃣ **Dettaglio Prodotto**
 📌 Una pagina dedicata all'analisi delle performance dei prodotti venduti:
 - KPI con **vendite totali per prodotto**
 - Margine Medio (€), calcolato come differenza tra prezzo unitario e costo
 - Tabella dettagliata con le caratteristiche dei prodotti
+- Logo dell'azienda come reset dei filtri
 
 ### 4️⃣ **Informazioni sui Negozi**
 📌 Fornisce una visione completa della performance di ogni negozio:
 - Tabella con **Negozio_ID, Città, Unità Vendute, Unità Rese, Vendite Nette, Data Stoccaggio, Data Transizione** e **Tempo di Evasione (differenza tra Data Stoccaggio e Data Transizione)**
 - **Grafico Top 10 Negozi per Vendite Nette**
 - KPI per **Unità Rese e Media Prezzo Unitario**
+- Logo dell'azienda come reset dei filtri
 
 ### 5️⃣ **Gestione dei Resi**
 📌 Analizza l'impatto dei resi sulle vendite per gennaio e febbraio:
@@ -62,7 +66,14 @@ Il report è composto da diverse pagine interattive:
 - **Segnalibri** per accedere rapidamente alle sezioni chiave
 
 ## 📷 Screenshot
-_Aggiungi qui gli screenshot delle pagine del report per una migliore comprensione_
+![immagine](https://github.com/user-attachments/assets/66a9fd12-a83b-4d6d-80c5-d81d3f053b96)
+![immagine](https://github.com/user-attachments/assets/95446e1d-981f-454a-a19a-6ebd326fc3db)
+![immagine](https://github.com/user-attachments/assets/2a0d3877-e99d-4f62-b488-a84557cfa433)
+![immagine](https://github.com/user-attachments/assets/0dcf2c8c-91e6-49aa-a5ec-b953d29eedc4)
+![immagine](https://github.com/user-attachments/assets/23eb022c-cd8a-462b-9df2-ffec7daa3296)
+
+
+
 
 ## 📩 Contatti
 Se hai domande o suggerimenti, contattami su **[aggiungi il tuo contatto GitHub/email]**.
