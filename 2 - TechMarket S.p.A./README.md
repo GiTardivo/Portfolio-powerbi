@@ -83,7 +83,15 @@ Il report è composto da diverse pagine interattive:
 Se hai domande o suggerimenti, contattami su **[aggiungi il tuo contatto GitHub/email]**.
 
 
-📌 Questo progetto è stato realizzato per scopi didattici e dimostrativi alla fine del modulo di Power Bi del master in Data Analytcs con ProfessionAI
+## ⚠️ Disclaimer  
+
+📌 Questo progetto è stato realizzato per scopi didattici e dimostrativi alla fine del modulo di Power BI del Master in Data Analytics con ProfessionAI.  
+
+L’uso dei dati e delle visualizzazioni è puramente a scopo educativo e non rappresenta informazioni reali di TechMarket S.p.A.  
+
+---
+
+📩 Per qualsiasi domanda, contattami!  
 
 
 
