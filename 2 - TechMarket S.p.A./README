@@ -1,71 +1,57 @@
-# Power BI Report - TechMarket S.p.A.
 
-## 📌 Descrizione
-Questo progetto Power BI è stato sviluppato per **TechMarket S.p.A.**, un importante rivenditore di elettronica in Italia. Il report fornisce una panoramica completa delle vendite, dei resi e delle performance dei punti vendita, permettendo ai manager di prendere decisioni informate attraverso un'interfaccia interattiva.
+# TechMarket S.p.A. - Power BI Sales Report
 
-## 🎯 Obiettivi
-- Analizzare le **vendite mensili**, tenendo in considerazione sconti, unità vendute e prezzi.
-- Monitorare le **vendite per città** e identificare le migliori performance regionali.
-- Fornire una panoramica dettagliata per **ogni prodotto venduto**.
-- Presentare le **performance di ogni punto vendita**, combinando dati di vendita e resi.
-- Creare una pagina dedicata ai **resi**, mostrando vendite nette escludendo le transazioni di reso.
-- Implementare **segnalibri e navigazione interattiva** per un'esperienza utente fluida.
+## 📌 Descrizione del Progetto
+Questo progetto Power BI è stato sviluppato per TechMarket S.p.A., un grande rivenditore di elettronica in Italia. L'obiettivo è fornire un report interattivo per analizzare le vendite, i resi e le performance dei negozi e dei prodotti.
 
-## 📊 Contenuto del Report
-Il report è composto da diverse pagine interattive:
+## 📊 Struttura del Report
+Il report è composto da diverse pagine, ognuna con visualizzazioni e KPI specifici:
 
 ### 1️⃣ **Vendite per Mese**
-📌 Visualizza le vendite totali per ciascun mese considerando:
-- Unità vendute
-- Prezzo unitario
-- Sconto applicato
-- Grafico a colonne per l'andamento delle vendite mensili
+- Mostra le vendite totali per ogni mese, considerando sconti, unità vendute e prezzo.
+- Grafico a barre con vendite mensili.
+- KPI sulle vendite nette.
 
 ### 2️⃣ **Unità Vendute per Città**
-📌 Mostra l'analisi delle vendite per ogni città in cui TechMarket opera:
-- Mappa interattiva con grandezza delle bolle proporzionale alle unità vendute
-- Istogramma per confronto rapido tra città
-- Indicatori con **media unità vendute** e **media sconto**
+- Mappa con bolle che rappresentano le vendite per città.
+- Istogramma per confrontare le città tra loro.
+- KPI su unità vendute e sconto medio.
 
 ### 3️⃣ **Dettaglio Prodotto**
-📌 Una pagina dedicata all'analisi delle performance dei prodotti venduti:
-- KPI con **vendite totali per prodotto**
-- Margine Medio (€), calcolato come differenza tra prezzo unitario e costo
-- Tabella dettagliata con le caratteristiche dei prodotti
+- Analizza le performance di ogni prodotto venduto.
+- KPI sulle vendite per prodotto.
+- Grafico Top 10 prodotti più venduti.
 
 ### 4️⃣ **Informazioni sui Negozi**
-📌 Fornisce una visione completa della performance di ogni negozio:
-- Tabella con **Negozio_ID, Città, Unità Vendute, Unità Rese, Vendite Nette, Data Stoccaggio, Data Transizione** e **Tempo di Evasione (differenza tra Data Stoccaggio e Data Transizione)**
-- **Grafico Top 10 Negozi per Vendite Nette**
-- KPI per **Unità Rese e Media Prezzo Unitario**
+- Tabella con dati dei negozi: ID, città, unità vendute, unità rese, vendite nette, date di stoccaggio e transizione.
+- KPI sulla media della differenza di giorni tra stoccaggio e transizione.
+- Grafico Top 10 negozi per vendite nette.
 
-### 5️⃣ **Gestione dei Resi**
-📌 Analizza l'impatto dei resi sulle vendite per gennaio e febbraio:
-- Tabella con vendite nette (escluse le transazioni di reso)
-- KPI per **Unità Rese, Valore Resi (€) e Impatto sui Ricavi (€)**
-- Grafico per confrontare vendite e resi nei due mesi
+### 5️⃣ **Gestione Resi**
+- Mostra l'impatto delle transazioni di reso sulle vendite nette.
+- KPI sulle unità rese e sull'impatto sui ricavi.
+- Tabella con il dettaglio dei resi nei mesi di gennaio e febbraio.
 
-## 🖥️ Tecnologie Utilizzate
-- **Power BI** per la creazione di report e dashboard interattive
-- **DAX (Data Analysis Expressions)** per calcoli avanzati
-- **Power Query** per la trasformazione e pulizia dei dati
-- **GitHub** per la gestione e condivisione del progetto
+## 🔍 Navigazione e Interattività
+- Pulsanti di navigazione per spostarsi tra le pagine.
+- Segnalibri per accedere rapidamente alle sezioni chiave.
+- Pulsante per resettare i filtri.
 
-## 📂 Installazione e Utilizzo
-1. Scaricare il file **Progetto Power BI TechMarket S.p.A..pbix**
-2. Aprire il file con **Microsoft Power BI Desktop**
-3. Esplorare le pagine interattive del report
+## 🎨 Design e Stile
+- Sfondo personalizzato con gradiente da **#B3DDF2 a #005A9C**.
+- Formattazione condizionale per evidenziare KPI e valori critici.
 
-## 🔗 Navigabilità e Interattività
-- **Pulsanti** per il reset dei filtri
-- **Navigatore** per passare tra le pagine del report
-- **Segnalibri** per accedere rapidamente alle sezioni chiave
+## 📂 File
+- `Progetto Power BI TechMarket S.p.A..pbix`: file Power BI con il report completo.
+- `README.md`: questo file di documentazione.
 
-## 📷 Screenshot
-_Aggiungi qui gli screenshot delle pagine del report per una migliore comprensione_
+## 📸 Screenshot
+_Aggiungere qui gli screenshot delle diverse pagine del report._
 
-## 📩 Contatti
-Se hai domande o suggerimenti, contattami su **[aggiungi il tuo contatto GitHub/email]**.
+## 🚀 Come Usarlo
+1. Scaricare il file `.pbix`.
+2. Aprirlo con **Microsoft Power BI Desktop**.
+3. Esplorare le varie pagine e filtri interattivi.
 
 ---
 📌 _Questo progetto è stato realizzato per scopi didattici e dimostrativi in seguito al completamento del modulo di Power Bi nel master in Data Analytcs con ProfessionAI
