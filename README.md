@@ -46,4 +46,30 @@ ATM Transactions Analysis Dashboard (https://github.com/GiTardivo/Portfolio-powe
 Questo progetto evidenzia la capacità di gestire grandi volumi di dati, calcolare metriche personalizzate, e creare visualizzazioni intuitive per migliorare l’efficienza operativa e la redditività.
 
 ---
+# 🏪 TechMarket S.p.A. - Sales & Returns Dashboard  
+
+📊 **Descrizione**  
+Una dashboard interattiva progettata per analizzare le vendite, i resi e le performance dei negozi di TechMarket S.p.A., una catena di elettronica. Il report offre una visione completa delle vendite mensili, delle città con le migliori performance e dell’impatto dei resi sui ricavi.  
+
+🔍 **Caratteristiche Principali**  
+
+- Analisi dettagliata delle vendite per mese, città e prodotto.  
+- Monitoraggio delle performance di ogni negozio con metriche chiave.  
+- Sezione dedicata all’impatto dei resi sulle vendite nette.  
+- Navigazione interattiva con pulsanti e filtri dinamici.  
+
+🛠️ **Tecnologie Utilizzate**  
+
+- **Microsoft Power BI** per la creazione della dashboard.  
+- **DAX (Data Analysis Expressions)** per il calcolo di metriche avanzate.  
+- **Dataset in formato CSV/Excel** per l’integrazione dei dati di vendita e reso.  
+
+📂 **Link al Progetto**  
+[TechMarket S.p.A. Sales & Returns Dashboard](https://github.com/TUO-NOME/Portfolio-powerbi/tree/main/TechMarket)  
+
+🌟 **Punti di Forza**  
+Questo progetto evidenzia la capacità di gestire e trasformare grandi quantità di dati, applicare logiche di business complesse con DAX e creare report interattivi per supportare decisioni aziendali strategiche.  
+
+⚠️ **Disclaimer**  
+📌 Questo progetto è stato realizzato per scopi didattici e dimostrativi alla fine del modulo di Power BI del master in Data Analytics con ProfessionAI.  
 
