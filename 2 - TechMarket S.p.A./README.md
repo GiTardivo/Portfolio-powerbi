@@ -54,5 +54,5 @@ _Aggiungere qui gli screenshot delle diverse pagine del report._
 3. Esplorare le varie pagine e filtri interattivi.
 
 ---
-📌 _Questo progetto è stato realizzato per scopi didattici e dimostrativi in seguito al completamento del modulo di Power Bi nel master in Data Analytcs con ProfessionAI
+📌 Questo progetto è stato realizzato per scopi didattici e dimostrativi in seguito al completamento del modulo di Power Bi nel master in Data Analytcs con ProfessionAI
 
