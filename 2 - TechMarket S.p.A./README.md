@@ -67,9 +67,13 @@ Il report è composto da diverse pagine interattive:
 
 ## 📷 Screenshot
 ![immagine](https://github.com/user-attachments/assets/66a9fd12-a83b-4d6d-80c5-d81d3f053b96)
+
 ![immagine](https://github.com/user-attachments/assets/95446e1d-981f-454a-a19a-6ebd326fc3db)
-![immagine](https://github.com/user-attachments/assets/2a0d3877-e99d-4f62-b488-a84557cfa433)
+
+![immagine](https://github.com/user-attachments/assets/8d223244-28a7-4f52-a91c-dfef368b6133)
+
 ![immagine](https://github.com/user-attachments/assets/0dcf2c8c-91e6-49aa-a5ec-b953d29eedc4)
+
 ![immagine](https://github.com/user-attachments/assets/23eb022c-cd8a-462b-9df2-ffec7daa3296)
 
 
