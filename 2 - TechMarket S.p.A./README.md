@@ -72,7 +72,3 @@ Se hai domande o suggerimenti, contattami su **[aggiungi il tuo contatto GitHub/
 
 
 
-
----
-📌 Questo progetto è stato realizzato per scopi didattici e dimostrativi in seguito al completamento del modulo di Power Bi nel master in Data Analytcs con ProfessionAI
-
