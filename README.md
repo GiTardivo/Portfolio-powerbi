@@ -65,7 +65,7 @@ Una dashboard interattiva progettata per analizzare le vendite, i resi e le perf
 - **Dataset in formato CSV/Excel** per l’integrazione dei dati di vendita e reso.  
 
 📂 **Link al Progetto**  
-[TechMarket S.p.A. Sales & Returns Dashboard] ((https://github.com/GiTardivo/Portfolio-powerbi/tree/main/2%20-%20TechMarket%20S.p.A.)  
+[TechMarket S.p.A. Sales & Returns Dashboard] (([https://github.com/GiTardivo/Portfolio-powerbi/tree/main/2%20-%20TechMarket%20S.p.A.](https://github.com/GiTardivo/Portfolio-powerbi/tree/main/2%20-%20TechMarket%20S.p.A.))  
 
 🌟 **Punti di Forza**  
 Questo progetto evidenzia la capacità di gestire e trasformare grandi quantità di dati, applicare logiche di business complesse con DAX e creare report interattivi per supportare decisioni aziendali strategiche.  
