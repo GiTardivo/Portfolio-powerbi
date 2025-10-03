@@ -91,7 +91,7 @@ Offre una panoramica completa su vendite totali, ordini, clienti e distribuzione
 - Dataset demo in formato Excel/CSV  
 
 📂 **Link al Progetto**  
-[Sales Dashboard – Acura Cars](https://github.com/GiTardivo/Portfolio-powerbi/tree/main/Acura%20Sales%20Dashboard)  
+[Sales Dashboard – Acura Cars]([https://github.com/GiTardivo/Portfolio-powerbi/tree/main/Acura%20Sales%20Dashboard](https://github.com/GiTardivo/Portfolio-powerbi/tree/a33eb15366d3821475c3457ae55166eadf004ef7/03%20-%20Sales%20Dashboard%20%E2%80%93%20Acura%20Cars))  
 
 🌟 **Punti di Forza**  
 Mostra la capacità di progettare dashboard moderne e di sintetizzare informazioni complesse in visualizzazioni immediate e professionali.  
