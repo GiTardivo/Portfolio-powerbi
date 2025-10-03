@@ -107,8 +107,8 @@ Offre una panoramica completa su vendite totali, ordini, clienti e distribuzione
 📂 **Link al Progetto**  
 [Sales Dashboard – Acura Cars](https://github.com/GiTardivo/Portfolio-powerbi/tree/a33eb15366d3821475c3457ae55166eadf004ef7/03%20-%20Sales%20Dashboard%20%E2%80%93%20Acura%20Cars)
 
+<img width="1423" height="732" alt="immagine" src="https://github.com/user-attachments/assets/1251aa04-8dc0-4863-93de-9d8a88c9c0ea" />
 
-<img width="1423" height="730" alt="immagine" src="https://github.com/user-attachments/assets/01ee2cd3-b8d6-4dc9-994c-2842e74d44af" />
 
 
 
