@@ -48,5 +48,11 @@ Le dashboard consentono di:
 - **Deal Size (Small, Medium, Large)**  
 
 
+## Contatti
+
+Per ulteriori informazioni o domande:
+
+- **LinkedIn**: [Giuseppe Tardivo](https://www.linkedin.com/in/giuseppe-tardivo-8710b3298/)
+- **GitHub**: [GiTardivo](https://github.com/GiTardivo)
 
 
