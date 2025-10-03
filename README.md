@@ -4,7 +4,7 @@ Benvenuto nel mio portfolio! Qui troverai una selezione delle dashboard che ho c
 
 ## Progetti in Evidenza
 
-### TITANIC DATA ANALYSIS PROJECT DASHBOARD
+### 🚢 TITANIC DATA ANALYSIS PROJECT DASHBOARD
 
 🛠️ Tecnologie Utilizzate
 
@@ -29,7 +29,7 @@ Le analisi sono state condotte attraverso Python, SQL e Power BI, creando un flu
 
 ------------------------------------------------------
 
-### ATM Transactions Analysis Dashboard 
+### 💳 ATM Transactions Analysis Dashboard 
 
 📊 **Descrizione**  
 Una dashboard interattiva progettata per analizzare le transazioni e le prestazioni degli sportelli ATM. Offre una visione approfondita dei costi di manutenzione, dei ricavi mensili e delle metriche chiave di profitto per supportare decisioni aziendali strategiche.
