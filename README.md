@@ -46,7 +46,7 @@ ATM Transactions Analysis Dashboard (https://github.com/GiTardivo/Portfolio-powe
 Questo progetto evidenzia la capacità di gestire grandi volumi di dati, calcolare metriche personalizzate, e creare visualizzazioni intuitive per migliorare l’efficienza operativa e la redditività.
 
 ---
-# 🏪 TechMarket S.p.A. - Sales & Returns Dashboard  
+### 🏪 TechMarket S.p.A. - Sales & Returns Dashboard  
 
 📊 **Descrizione**  
 Una dashboard interattiva progettata per analizzare le vendite, i resi e le performance dei negozi di TechMarket S.p.A., una catena di elettronica. Il report offre una visione completa delle vendite mensili, delle città con le migliori performance e dell’impatto dei resi sui ricavi.  
