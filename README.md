@@ -73,3 +73,26 @@ Questo progetto evidenzia la capacità di gestire e trasformare grandi quantità
 ⚠️ **Disclaimer**  
 📌 Questo progetto è stato realizzato per scopi didattici e dimostrativi alla fine del modulo di Power BI del master in Data Analytics con ProfessionAI.  
 
+
+### 🚗 Sales Dashboard – Acura Cars  
+
+📊 **Descrizione**  
+Dashboard interattiva che analizza le performance di vendita dei modelli Acura (Integra, RDX, MDX, TLX).  
+Offre una panoramica completa su vendite totali, ordini, clienti e distribuzione geografica.  
+
+🔍 **Caratteristiche Principali**  
+- Analisi vendite per anno, paese, colore e dimensione del deal.  
+- Confronto performance tra diversi modelli.  
+- KPI cards chiare e intuitive.  
+
+🛠️ **Tecnologie Utilizzate**  
+- Microsoft Power BI  
+- DAX (Data Analysis Expressions)  
+- Dataset demo in formato Excel/CSV  
+
+📂 **Link al Progetto**  
+[Sales Dashboard – Acura Cars](https://github.com/GiTardivo/Portfolio-powerbi/tree/main/Acura%20Sales%20Dashboard)  
+
+🌟 **Punti di Forza**  
+Mostra la capacità di progettare dashboard moderne e di sintetizzare informazioni complesse in visualizzazioni immediate e professionali.  
+
